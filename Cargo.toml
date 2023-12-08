@@ -33,4 +33,9 @@ path = "src/day6/main.rs"
 name = "day7"
 path = "src/day7/main.rs"
 
+[[bin]]
+name = "day8"
+path = "src/day8/main.rs"
+
 [dependencies]
+gcd = "2.3.0"
